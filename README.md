@@ -2,7 +2,7 @@
 
 Custom Console Logging with Emoji
 
-![emoji-console](https://github.com/JeanwayHwang/emoji-console/blob/master/test/console.png)
+![emoji-console](https://github.com/JeanwayHwang/emoji-console/blob/master/test/console.png?raw=true)
 
 ## Install
 
